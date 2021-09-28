@@ -3,3 +3,4 @@ from one:1
 from two:develop branch
 after merge: still in develop
 staging 1
+staging 2
