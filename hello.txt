@@ -2,7 +2,11 @@ hello~
 from one:1
 from two:develop branch
 after merge: still in develop
+staging 1
+staging 2
 after staging created: dev
 dev 2
 dev 3
 dev 4
+merge 2
+dev 5
